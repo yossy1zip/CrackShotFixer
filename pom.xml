@@ -77,5 +77,10 @@
             <version>0.98.11</version>
             <systemPath>${basedir}/lib/CrackShot.jar</systemPath>
         </dependency>
+        <dependency>
+            <groupId>org.spigotmc</groupId>
+            <artifactId>spigot</artifactId>
+            <version>1.16.5-R0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 </project>
