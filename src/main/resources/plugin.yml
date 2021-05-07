@@ -1,0 +1,7 @@
+name: CrackShotFixer
+version: ${project.version}
+main: com.yiorno.crackshotfixer.CrackShotFixer
+api-version: 1.16
+prefix: CC-Fix
+depend: [ CrackShot ]
+authors: [ yossy_zip ]
